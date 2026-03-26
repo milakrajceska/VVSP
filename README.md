@@ -1,4 +1,4 @@
-#Simulation-Based Modeling of a Coffee Bar as a Queueing System with Heterogeneous Servers
+# Simulation-Based Modeling of a Coffee Bar as a Queueing System with Heterogeneous Servers
 
 This project presents a discrete-event simulation of a coffee bar with heterogeneous servers (barista and cook) and probabilistic customer arrivals. It was presented at the “Math and its Application” seminar at the Faculty of Natural Sciences. The model captures realistic features such as parallel service for combined orders (customers ordering both drinks and food).
 
